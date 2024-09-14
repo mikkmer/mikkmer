@@ -8,9 +8,7 @@ I'm a self-taught programmer, writing my first block of Python with the help of 
 ## WakaTime Stats
 Here's a breakdown of the languages I've been using over the past week:
 
-<figure>
-  <embed src="https://wakatime.com/share/@doubtful/93f73fbb-b612-4291-9548-3da1daabe3f3.svg"></embed>
-</figure>
+[![wakatime](https://wakatime.com/share/@doubtful/28ecf6eb-5e2a-4cfc-8257-25bac9c9feb0.svg)](https://wakatime.com/@doubtful)
 
 ## My Interests
 - 🚀 Programming
@@ -29,3 +27,5 @@ I'm currently diving into Vim and always eager to explore new technologies and t
 Thanks for stopping by! Feel free to explore the underwhelming public repos of mine!
 
 ---
+
+<figure><embed src="https://wakatime.com/share/@doubtful/28ecf6eb-5e2a-4cfc-8257-25bac9c9feb0.svg"></embed></figure>
