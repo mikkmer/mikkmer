@@ -8,7 +8,7 @@ I'm a self-taught programmer, writing my first block of Python with the help of 
 ## WakaTime Stats
 Here's a breakdown of the languages I've been using over the past week:
 
-[![wakatime](https://wakatime.com/share/@doubtful/28ecf6eb-5e2a-4cfc-8257-25bac9c9feb0.svg)](https://wakatime.com/@doubtful)
+[![wakatime](https://wakatime.com/share/@doubtful/fa5b3e34-d648-4107-82b0-f82cfe664de0.svg)](https://wakatime.com/@doubtful)
 
 ## My Interests
 - 🚀 Programming
