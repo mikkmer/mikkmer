@@ -29,4 +29,3 @@ I'm currently diving into Vim and always eager to explore new technologies and t
 Thanks for stopping by! Feel free to explore the underwhelming public repos of mine!
 
 ---
-⭐️ From [Your GitHub Username]
